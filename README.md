@@ -1,14 +1,7 @@
 # COMP 2230-02: Data Structures, Algorithm Analysis, and Program Design
 
-**Term:** Winter 2026
-
-**Instructor:** Shivani Tyagi
-
-**Class Venue:** OM 1350
-
-**Office:** 406B Clock Tower
-
-**Office Hours:** By appointment
+**Term:** Winter 2026 | **Instructor:** Shivani Tyagi
+ | **Class Venue:** OM 1350 | **Office:** 406B Clock Tower | **Office Hours:** By appointment
 
 ---
 
@@ -51,14 +44,12 @@ By the end of this course, students will be able to:
 * Identify problems solvable using common data structures
 * Implement basic data structures and operations in **Java**
 * Understand and implement sorting algorithms:
-
   * Bubble Sort
   * Selection Sort
   * Insertion Sort
   * Merge Sort
   * Quick Sort
 * Apply searching techniques:
-
   * Linear Search
   * Binary Search
   * Hash-based Search
