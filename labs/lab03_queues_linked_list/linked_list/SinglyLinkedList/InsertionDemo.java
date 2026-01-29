@@ -70,9 +70,9 @@ public class InsertionDemo {
     
     public static void main(String[] args) {
         InsertionDemo demo = new InsertionDemo();
-        demo.insertBeginning(1);
-        demo.insertEnd(3);
-        demo.insertAfterPosition(1, 2);
+        demo.insertBeginning(15);
+        demo.insertEnd(30);
+        demo.insertAfterPosition(2, 20);
         demo.display();  // Output: List: 1 -> 2 -> 3 -> NULL
     }
 }
